@@ -4,7 +4,7 @@
 
 深夜 感慨为什么要上班摸鱼下班下棋
 
-[![ha!](https://avatars.githubusercontent.com/u/30406289?v=4 "哈！")]
+![ha!](https://avatars.githubusercontent.com/u/30406289?v=4 "哈！")
 
 [![lifegpc's github stats](https://github-readme-stats.vercel.app/api?username=withzhaoyu&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withzhaoyu&layout=compact&exclude_repo=lifegpc.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
