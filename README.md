@@ -6,9 +6,7 @@
 
 ***
 
-#![ha!](https://avatars.githubusercontent.com/u/30406289?v=4 "哈！")
-
 <center>
-  <img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="40%" />
+  <img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="100" />
   Figure 1. Lena
 </center>
