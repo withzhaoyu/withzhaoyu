@@ -6,7 +6,5 @@
 
 ***
 
-<center>
-  <img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="100" />
-  Figure 1. Lena
-</center>
+<img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="100" />
+  
