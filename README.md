@@ -1,9 +1,9 @@
-halo~
-I'm JoeyZhang, a Chinese front-end Developer.
+halo~ 你好~
+I'm Joey Zhang, a CN front-end Developer.
 Keep calm use Stack Overflow
 ***
 
-<img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="100" />
+<img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="80" />
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
