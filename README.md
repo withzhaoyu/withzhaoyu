@@ -1,6 +1,6 @@
-halo~ 你好~
-I'm Joey Zhang, a CN front-end Developer.
-Keep calm use Stack Overflow
+<h3>halo~ 你好~  </h3>
+I'm Joey Zhang, a CN front-end Developer.<br/>
+Keep calm use Stack Overflow. <br/>
 ***
 
 <img src="https://avatars.githubusercontent.com/u/30406289?v=4" width="80" />
